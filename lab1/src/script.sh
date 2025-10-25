@@ -4,6 +4,7 @@ mkdir -p lab0
 cd lab0
 
 # Step 1
+echo -e '========================'
 echo -e '-- Step 1\n...'
 
 mkdir delcatty5

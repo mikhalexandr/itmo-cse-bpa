@@ -4,4 +4,4 @@ tasks:
   run-script:
     desc: Запуск script.sh
     cmds:
-      - bash script.sh
+      - bash src/script.sh
