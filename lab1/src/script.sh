@@ -113,7 +113,7 @@ rm poliwrath6
 rm nosepass1/sunflora
 rm nosepass1/granbullpoliwra*
 rm nosepass1/sunfloratoxicro*
-rmdir mienfoo0
-rmdir mienfoo0/drilbur
+rm -rf mienfoo0
+rm -rf mienfoo0/drilbur
 
 echo -e '-- Step 5 completed!\n========================'
