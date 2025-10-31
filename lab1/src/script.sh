@@ -100,7 +100,7 @@ cat nosepass1/* 2>&1 | grep 'h$'
 
 cat poliwrath6 | grep -v 'h$'
 
-ls -ld --time=atime lab0/**/p* 2>/tmp/lab0_ls_errors | sort -k6M -k7n -k8 | head -n 4
+ls -ld --time=atime **/p* 2>/tmp/lab0_ls_errors | sort -k6M -k7n -k8 | head -n 4
 
 cat nosepass1/* 2>/tmp/nosepass1_cat_errors | grep -v 'h$'
 
