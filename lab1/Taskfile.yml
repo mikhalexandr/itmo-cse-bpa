@@ -1,7 +1,24 @@
 version: '3'
 
 tasks:
-  run-script:
-    desc: Запуск script.sh
+  main:
     cmds:
-      - bash src/script.sh
+      - bash src/main.sh
+  step1:
+    cmds:
+      - bash src/step1.sh
+  step2:
+    cmds:
+      - bash src/step2.sh
+  step3:
+    cmds:
+      - bash src/step3.sh
+  step4:
+    cmds:
+      - bash src/step4.sh
+  step5:
+    cmds:
+      - bash src/step5.sh
+  clear:
+    cmds:
+      - bash src/clear.sh
