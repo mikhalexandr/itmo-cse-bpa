@@ -1,10 +1,10 @@
-mkdir -p lab0
-cd lab0
+mkdir -p ../lab0
+cd ../lab0
 
 shopt -s globstar
 
-bash ../step1.sh
-bash ../step2.sh
-bash ../step3.sh
-bash ../step4.sh
-bash ../step5.sh
+bash ../src/step1.sh
+bash ../src/step2.sh
+bash ../src/step3.sh
+bash ../src/step4.sh
+bash ../src/step5.sh
