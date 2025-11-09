@@ -1,0 +1,79 @@
+total 4
+lrwxr-xr-x  1 s501651 studs   9  9 нояб. 13:40 Copy_86 -> delcatty5
+drwx-wxrwx  5 s501651 studs   5  9 нояб. 13:40 delcatty5
+drwx--x--x  5 s501651 studs   6  9 нояб. 13:40 mienfoo0
+dr-xr-x--x  5 s501651 studs  10  9 нояб. 13:40 nosepass1
+-rw-------  1 s501651 studs  28  9 нояб. 13:40 poliwrath6
+-------rw-  1 s501651 studs  55  9 нояб. 13:40 stunky5
+-rw-r--r--  1 s501651 studs 120  9 нояб. 13:40 stunky5_66
+-r--r-----  2 s501651 studs  20  9 нояб. 13:40 toxicroak1
+
+../lab0/delcatty5:
+total 2
+d-wxrw---x  2 s501651 studs 2  9 нояб. 13:40 forretress
+drwxrwxrwx  2 s501651 studs 2  9 нояб. 13:40 karrablast
+drwxr-xr-x  2 s501651 studs 2  9 нояб. 13:40 pikachu
+
+../lab0/delcatty5/forretress:
+total 0
+
+../lab0/delcatty5/karrablast:
+total 0
+
+../lab0/delcatty5/pikachu:
+total 0
+
+../lab0/mienfoo0:
+total 2
+drwxr-x---  3 s501651 studs  3  9 нояб. 13:40 drilbur
+drwxrwxrwx  2 s501651 studs  2  9 нояб. 13:40 grumpig
+-r--------  1 s501651 studs 82  9 нояб. 13:40 salamence
+drwxr-x-w-  2 s501651 studs  2  9 нояб. 13:40 volcarona
+
+../lab0/mienfoo0/drilbur:
+total 1
+drwxr-x--x  5 s501651 studs 7  9 нояб. 13:40 nosepass1
+
+../lab0/mienfoo0/drilbur/nosepass1:
+total 3
+drwxr-x---  2 s501651 studs  2  9 нояб. 13:40 gothitelle
+-rw----r--  1 s501651 studs 38  9 нояб. 13:40 granbull
+dr-x------  2 s501651 studs  2  9 нояб. 13:40 shinx
+-rw-------  1 s501651 studs 85  9 нояб. 13:40 sunflora
+drwx--x--x  2 s501651 studs  2  9 нояб. 13:40 umbreon
+
+../lab0/mienfoo0/drilbur/nosepass1/gothitelle:
+total 0
+
+../lab0/mienfoo0/drilbur/nosepass1/shinx:
+total 0
+
+../lab0/mienfoo0/drilbur/nosepass1/umbreon:
+total 0
+
+../lab0/mienfoo0/grumpig:
+total 0
+
+../lab0/mienfoo0/volcarona:
+total 0
+
+../lab0/nosepass1:
+total 4
+drwxr-x---  2 s501651 studs  3  9 нояб. 13:40 gothitelle
+-------r--  1 s501651 studs 38  9 нояб. 13:40 granbull
+lrwxr-xr-x  1 s501651 studs 13  9 нояб. 13:40 granbullpoliwrath -> ../poliwrath6
+-rw-r--r--  1 s501651 studs 55  9 нояб. 13:40 granbullstunky
+dr-x------  2 s501651 studs  2  9 нояб. 13:40 shinx
+-rw-------  1 s501651 studs 85  9 нояб. 13:40 sunflora
+-r--r-----  2 s501651 studs 20  9 нояб. 13:40 sunfloratoxicroak
+drwx-wx-wx  2 s501651 studs  2  9 нояб. 13:40 umbreon
+
+../lab0/nosepass1/gothitelle:
+total 1
+-r--r-----  1 s501651 studs 20  9 нояб. 13:40 toxicroak1
+
+../lab0/nosepass1/shinx:
+total 0
+
+../lab0/nosepass1/umbreon:
+total 0
