@@ -1,3 +1,4 @@
+mkdir -p ../tmp
 mkdir -p ../lab0
 cd ../lab0
 
