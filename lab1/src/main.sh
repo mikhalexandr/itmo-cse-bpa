@@ -1,7 +1,7 @@
-mkdir -p ../tmp
+mkdir -p tmp
 
-mkdir -p ../lab0
-cd ../lab0
+mkdir -p lab0
+cd lab0
 
 shopt -s globstar
 
