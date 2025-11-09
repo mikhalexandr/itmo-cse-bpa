@@ -13,6 +13,9 @@ tasks:
   step3:
     cmds:
       - bash src/step3.sh
+  ls_hierarchy:
+    cmds:
+      - bash src/ls_hierarchy.sh
   step4:
     cmds:
       - bash src/step4.sh

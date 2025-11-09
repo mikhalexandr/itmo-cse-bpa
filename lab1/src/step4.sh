@@ -13,7 +13,7 @@ echo -e "\n-- Point 4..."
 cat poliwrath6 | grep -v 'h$'
 
 echo -e "\n-- Point 5..."
-ls -ltu p* **/p* 2>../tmp/lab0_ls_errors | sort -k6M -k7n -k8 | head -n 4
+ls -ltu p* **/p* 2>../tmp/lab0_ls_errors | sort -k6M -k7n -k8 | grep -Ev '^$|total 0' | head -n 4
 
 echo -e "\n-- Point 6..."
 cat nosepass1/* 2>../tmp/nosepass1_cat_errors | grep -v 'h$'

@@ -1,0 +1,1 @@
+ls -lR ../lab0 > ../docs/file_hierarchy_after_step_3.txt
