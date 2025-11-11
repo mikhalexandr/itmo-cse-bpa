@@ -16,6 +16,7 @@ jobs:
           fetch-depth: 0
 
       - name: Push changes to Helios
+        continue-on-error: true
         env:
           HELIOS_SSH_PRIVATE_KEY: ${{ secrets.HELIOS_SSH_PRIVATE_KEY }}
           HELIOS_USER: ${{ secrets.HELIOS_USER }}
